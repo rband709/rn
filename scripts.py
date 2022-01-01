@@ -59,7 +59,7 @@ class Scripted(object):
     REPLY_TO_MEDIA = "<i>Reply to Media For Converting with Command /convert</i>"
     UPLOAD_START = "<i>📤 Uploading Your File Please wait...</i>\n"
     DOWNLOAD_START = "<i>📥 Downloading Your File Please wait...</i>\n"
-    JOIN_NOW_TEXT = "<code>First Join My Updates Channel to Use Me</code>"
+    JOIN_NOW_TEXT = "<code>• برای استفاده از ربات باید در کانال زیر عضو شوید سپس /start را کلیک کنید.👇</code>"
     REPLY_TO_FILE = "<i>Reply to that media with /rename new name .ext</i>"
     CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact in Support Group @TeleRoid14 😑</i>"
     START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support💯</i>"
