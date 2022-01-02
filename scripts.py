@@ -50,7 +50,7 @@ class Scripted(object):
     ACCESS_DENIED = "<b>¥ou Are Banned 🚫</b>"
     BANNED_USER_TEXT = "<i>¥ou are Banned 🚫</i>"
     TRYING_TO_UPLOAD = "<b>در حال آپلود ...</b>"
-    CURRENT_THUMBNAIL = "<b>🔺 تصویر انتخاب شده شما ⁦👆</b>"
+    CURRENT_THUMBNAIL = "<b>🔺 تصویر انتخاب شده شما🙂</b>"
     THUMBNAIL_SAVED = "<b>📸 تصویر بند انگشتی(تامبنیل) با موفقیت  ثبت شد.</b>"
     THUMBNAIL_DELETED = "<b>📸 تصویر بند انگشتی(تامبنیل) با موفقیت حذف شد.</b>"
     NO_THUMBNAIL_FOUND = "<b>❌ هیچ تصویر (تامبینل) ی یافت نشد.</b>"
