@@ -58,7 +58,7 @@ class Scripted(object):
     UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @TheTeleRoid</i></u>"
     REPLY_TO_MEDIA = "<b>✅ برای تبدیل فایل به ویدیو\n\n🔚روی فایل ارسالی خود ریپلی کنید سپس دستور /convert ارسال کنید.! </b>"
     UPLOAD_START = "<i>📤  در حال آپلود فایل ...</i>\n"
-    DOWNLOAD_START = "<i>📥 در حال دانلود فایل ...</i>\n"
+    DOWNLOAD_START = "<i>📥 در حال دانلود فایل...</i>\n"
     JOIN_NOW_TEXT = "<b>• برای استفاده از ربات باید در کانال زیر عضو شوید سپس /start را کلیک کنید.👇</b>"
     REPLY_TO_FILE = "<b>⚠ روی فایل های ارسالی خود ریپلی کنید و سپس دستور /rename را تایپ سپس نام جدید فایل را وارد کنید.👇\n\n→ /rename [نام جدید فایل][.mp4] ←</b>"
     CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact in Support Group @TeleRoid14 😑</i>"
