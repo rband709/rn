@@ -24,26 +24,18 @@ class Scripted(object):
 
 
     ABOUT_TEXT = """
-╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
-│
-├<b>🤖 نام ربات : : <a href='https://t.me/ir_renamebot'>تغییرنام فایل</a></b>
-│
-├<b>📢 کانال : <a href='https://t.me/SeriesPlus1'>Series+</a></b>
-│
-├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
-│
-├<b>💢 Source : <a href='https://github.com/PredatorHackerzZ/Renamer-bot'>Click Here</a></b>
-│
-├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
-│
-├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
-│
-├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
-│
-├<b>👨‍💻 سازنده ربات : <a href='https://t.me/FarshidBand'>F∆RSHID-BAND</a></b>
-│
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
-│
+
+
+<b>🤖 نام ربات : : <a href='https://t.me/ir_renamebot'>تغییرنام فایل</a></b>
+
+<b>📢 کانال : <a href='https://t.me/SeriesPlus1'>Series+</a></b>
+
+<b>👥 گروه پشتیبانی : <a href='https://t.me/dlchinhub'>Group</a></b>
+
+<b>👨‍💻 سازنده ربات : <a href='https://t.me/FarshidBand'>F∆RSHID-BAND</a></b>
+
+<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
+
 ╰──────[Thanks 😊]───⍟"""
 
     CUSTOM_CAPTION = "<i>{}</i>"
