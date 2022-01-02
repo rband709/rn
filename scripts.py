@@ -62,5 +62,5 @@ class Scripted(object):
     JOIN_NOW_TEXT = "<code>• برای استفاده از ربات باید در کانال زیر عضو شوید سپس /start را کلیک کنید.👇</code>"
     REPLY_TO_FILE = "<i>Reply to that media with /rename new name .ext</i>"
     CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact in Support Group @TeleRoid14 😑</i>"
-    START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support💯</i>"
+    START_TEXT = "<b>🌺 سلام دوست عزیز خوش آمدید  😎\n\n🔘 من ربات کاربردی تغییرنام فایل هستم.\nمیتوانید با استفاده از من فایل های خود را با سرعت بالا تغییرنام دهید. \n\n📚 راهنمای ربات ← /help • \n🛠 سازنده ربات : @FarshidBand •</b>"
     UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/TeleRoid14'>[ Click Here]</a></b>"
