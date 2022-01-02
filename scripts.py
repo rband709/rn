@@ -24,7 +24,7 @@ class Scripted(object):
 
 
     ABOUT_TEXT = """
-
+★──────────∆──────────★
 
 <b>🤖 نام ربات : : <a href='https://t.me/ir_renamebot'>تغییرنام فایل</a></b>
 
@@ -32,11 +32,9 @@ class Scripted(object):
 
 <b>👥 گروه پشتیبانی : <a href='https://t.me/dlchinhub'>Group</a></b>
 
-<b>👨‍💻 سازنده ربات : <a href='https://t.me/FarshidBand'>F∆RSHID-BAND</a></b>
+<b>👨‍💻 سازنده ربات : <a href='https://t.me/FarshidBand'>F∆RSHID-B∆ND</a></b>
 
-<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
-
-╰──────[Thanks 😊]───⍟"""
+╰──────[Thanks 😊]─────⍟"""
 
     CUSTOM_CAPTION = "<i>{}</i>"
     ACCESS_DENIED = "<b>¥ou Are Banned 🚫</b>"
