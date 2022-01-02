@@ -28,7 +28,7 @@ class Scripted(object):
 │
 ├<b>🤖 نام ربات : : <a href='https://t.me/ir_renamebot'>تغییرنام فایل</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>TÉLÉRØÎD</a></b>
+├<b>📢 کانال : <a href='https://t.me/SeriesPlus1'>Series+</a></b>
 │
 ├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
 │
@@ -40,7 +40,7 @@ class Scripted(object):
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>@Pred∆tor</a></b>
+├<b>👨‍💻 سازنده ربات : <a href='https://t.me/FarshidBand'>F∆RSHID-BAND</a></b>
 │
 ├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
 │
@@ -49,12 +49,12 @@ class Scripted(object):
     CUSTOM_CAPTION = "<i>{}</i>"
     ACCESS_DENIED = "<b>¥ou Are Banned 🚫</b>"
     BANNED_USER_TEXT = "<i>¥ou are Banned 🚫</i>"
-    TRYING_TO_UPLOAD = "<b>در حال آپلود ...</b>"
+    TRYING_TO_UPLOAD = "<b>♨️ در حال آپلود ...</b>"
     CURRENT_THUMBNAIL = "<b>🔺 تصویر انتخاب شده شما🙂</b>"
     THUMBNAIL_SAVED = "<b>📸 تصویر بند انگشتی(تامبنیل) با موفقیت  ثبت شد.</b>"
     THUMBNAIL_DELETED = "<b>📸 تصویر بند انگشتی(تامبنیل) با موفقیت حذف شد.</b>"
     NO_THUMBNAIL_FOUND = "<b>❌ هیچ تصویر (تامبینل) ی یافت نشد.</b>"
-    TRYING_TO_DOWNLOAD = "<b>در حال دانلود ...</b>"
+    TRYING_TO_DOWNLOAD = "<b>⁦♨️⁩ در حال دانلود ...</b>"
     UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @TheTeleRoid</i></u>"
     REPLY_TO_MEDIA = "<b>✅ برای تبدیل فایل به ویدیو\n\n🔚روی فایل ارسالی خود ریپلی کنید سپس دستور /convert ارسال کنید.! </b>"
     UPLOAD_START = "<i>📤  در حال آپلود فایل ...</i>\n"
