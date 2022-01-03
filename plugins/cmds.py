@@ -34,8 +34,7 @@ async def start(bot, update):
           disable_web_page_preview=True,
           reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text='⭕ کانال پشتیبانی ⭕', url=f'https://t.me/{Config.UPDATE_CHANNEL}'),
                                                  InlineKeyboardButton(text='⭕ گروه پشتیبانی ⭕', url=f'https://t.me/{Config.UPDATE_GROUP}') ],
-                                               [ InlineKeyboardButton(text='👮 سازنده ربات', url='https://t.me/farshidband'),
-                                                 InlineKeyboardButton(text='🚸 Pᴏweʀᴇd By', url='https://t.me/MoviesFlixers_DL') ],
+                                               [ InlineKeyboardButton(text='👮 سازنده ربات', url='https://t.me/farshidband')]
                                                [ InlineKeyboardButton(text='❎ بستن منو ❎', callback_data='DM') ] ] ) )
 
 
