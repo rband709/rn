@@ -2,7 +2,7 @@ class Scripted(object):
 
 
     PROGRESS_DIS = """\n
-╭───[**🔅Progress Bar🔅**]───⍟
+╭───[**🔅پروژه جدید🔅**]───⍟
 │
 ├<b>📁 : {1} | {2}</b>
 │
