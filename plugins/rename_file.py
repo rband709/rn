@@ -42,7 +42,7 @@ async def rename_doc(bot, update):
                return
         except UserNotParticipant:
             await update.reply_text(text=Scripted.JOIN_NOW_TEXT,
-                  reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text="ᴊᴏɪɴ ɴᴏᴡ 🔓", url=f"https://t.me/{Config.UPDATE_CHANNEL}") ]
+                  reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text="🌸 عضویت 🌸", url=f"https://t.me/{Config.UPDATE_CHANNEL}") ]
                 ] 
               )
             )
