@@ -36,7 +36,7 @@ async def start(bot, update):
                                                  InlineKeyboardButton(text='⭕ گروه پشتیبانی ⭕', url=f'https://t.me/{Config.UPDATE_GROUP}') ],
                                                [ InlineKeyboardButton(text='👮 سازنده ربات', url='https://t.me/farshidband'),
                                                  InlineKeyboardButton(text='🚸 Pᴏweʀᴇd By', url='https://t.me/MoviesFlixers_DL') ],
-                                               [ InlineKeyboardButton(text='🔐 Cʟᴏꜱᴇ 🔐', callback_data='DM') ] ] ) )
+                                               [ InlineKeyboardButton(text='❎ بستن منو ❎', callback_data='DM') ] ] ) )
 
 
 
