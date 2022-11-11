@@ -2,11 +2,11 @@ import os
 
 class Config(object):
 
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", ".")
 
-    APP_ID = int(os.environ.get("APP_ID", 12345))
+    APP_ID = int(os.environ.get("APP_ID", "3335796"))
     
-    API_HASH = os.environ.get("API_HASH")
+    API_HASH = os.environ.get("API_HASH", "138b992a0e672e8346d8439c3f42ea78")
 
     OUO_IO_API_KEY = ""
 
@@ -20,12 +20,12 @@ class Config(object):
 
     DB_URI = os.environ.get("DATABASE_URL", "")
 
-    UPDATE_GROUP = os.environ.get("UPDATE_GROUP", "")
+    UPDATE_GROUP = os.environ.get("UPDATE_GROUP", "dlchinhub")
     
-    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "")
+    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "dlchin")
 
     CHUNK_SIZE = int(os.environ.get("CHUNK_SIZE", 128))
 
-    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split())
+    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "763990585").split())
 
     BANNED_USERS = set(int(x) for x in os.environ.get("BANNED_USERS", "").split())
