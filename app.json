@@ -48,7 +48,7 @@
   },
   "addons": [
     {
-    "plan": "heroku-postgresql",
+    "plan": "scalingo-postgresql",
       "options": {
         "version": "12"
       }
@@ -57,7 +57,7 @@
   "buildpacks": [{
     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
   }, {
-    "url": "heroku/python"
+    "url": "scalingo/python"
   }],
   "formation": {
     "worker": {
