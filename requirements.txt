@@ -2,10 +2,10 @@ numpy
 Pillow
 aiohttp
 hachoir
-Pyrogram==1.4.16
+Pyrogram==2.0.69
 requests
 tgcrypto
 feedparser
 beautifulsoup4
 psycopg2-binary
-sqlalchemy==2.0.69
+sqlalchemy
